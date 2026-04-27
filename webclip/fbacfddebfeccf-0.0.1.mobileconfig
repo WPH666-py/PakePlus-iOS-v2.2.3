@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAYAAACoPemuAAACdElEQVR4AeyWvU4cMRDH51YoYkMFZdIhitVFSZVEeQwKCqqIx0iVIk3yGCgVBRI8BgIqEKcrEKKBBgkqWITQHju7/GFsPP6A5Uvi7mZtj/8e//B4jsvohb7ewFIT83ZiDzqxzdHzviX860vl3klOu8dhq0bt3xnSQ9eqw0/1xBZWC5pf7gft/LINEdJDF0ZqFW3Utu98Tk+WNDN117KeKZc6zLl85ip9FARbnB3S0tzgjo2PVUZUqcOcy2cs8gyCYJ61jzr1esG0akutstTjDZ6YVm2pVdY5mKwsWZ2ovNQNY/XBE5OVJasTlRe7UaouCJYasCt9Z2CySFAYLl8seGdgskhQGC7fg8Fw6bVLbs9jLAtE9rU4Gqh6Yrj02iW35zGWBSL7WpxkMG3BU/nVE8tPDik/PiAaXf/gchD5NPnOHuXbu41RdfsPX/Pb4VWwYvUf9Zf/0MTRvhOOoYqVv40mu7ww4vLmxfef1P8y39jExoAYTvMbi68HKlg5+YGo1yMGtDem+gU/dLWr+WDz7Oy8GfOj+LFADMewLj9Ds06aCjac/UXV2DupdfZtHUPIzbHI8MNZt5pfBavX3Hw4bfKu2eMbYYcdLxjShLRhX4wxD3+XrRfMTpO9cWje1qeMvWAyENKHVs7JfvlpmiiLDkuaPhgB6UL60MIvobg/XFuk02/9KDiGGq7/p+r9OC81LAgm0yVPS/qNiPUgBs4HVYegIBiLYDgtjH2tDy4ExXGjwDht5dRHksZfvhzAZy64GCiOGQXGaRvM/SZpMV++vAHgys8zxKbdKdZKiwKTC+7TZ7jB1hKxuS66K6YB9rX3vG8JeAUAAP//DWpF3wAAAAZJREFUAwDV/yBrVpSKWgAAAABJRU5ErkJggg==</data>
+			<key>IgnoreManifestScope</key>
+			<true/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>AI-Vlove</string>
+			<key>PayloadDescription</key>
+			<string>Configuration Payload description</string>
+			<key>PayloadDisplayName</key>
+			<string>PakePayload</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-19A62330AD5A</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>E0736409-C08F-4F54-86DA-19A62330AD5A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<false/>
+			<key>URL</key>
+			<string>http://smartai-qut-psrs.top:3006</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>PakePlus-iOS-fbacfddebfeccf</string>
+	<key>PayloadIdentifier</key>
+	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-19A62330AD5A</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6E3BF4EB-11D9-4F2E-8DE8-19A62330AD5A</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
